@@ -132,38 +132,43 @@ header {
 }
 
 .frame-tag {
-	padding: 2px;
+	padding: 8px;
 	color: #fff;
 	background: #45d158;
 	margin: 4px;
+	border-radius: 22px;
 }
 
 .ts-tag {
-	padding: 2px;
+	padding: 8px;
 	color: #fff;
 	background: #2f95a7;
 	margin-right: 4px;
+	border-radius: 22px;
 }
 
 .ui-tag {
-	padding: 2px;
+	padding: 8px;
 	color: #fff;
 	background: #cc3622;
 	margin-right: 4px;
+	border-radius: 22px;
 }
 
-.recharts-tag {
-	padding: 2px;
+.lib-tag {
+	padding: 8px;
 	color: #fff;
 	background: #d1c12a;
 	margin-right: 4px;
+	border-radius: 22px;
 }
 
 .style-tag {
-	padding: 2px;
+	padding: 8px;
 	color: #fff;
 	background: #2aa7d1;
 	margin-right: 4px;
+	border-radius: 22px;
 }
 
 
